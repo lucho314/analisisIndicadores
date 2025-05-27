@@ -3,7 +3,7 @@ import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js'
 import { z } from 'zod';
 import axios from 'axios';
 
-const API_KEY = 'd293f6fa708b440f971aba563b6524c7'; // Reemplaza con tu API Key de Alpha Vantage
+const API_KEY = ''; // Reemplaza con tu API Key de Alpha Vantage
 
 
 
