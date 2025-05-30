@@ -6,7 +6,6 @@ import BybitService from './services/bybitService.js';
 import { API_KEY, BYBIT_API_KEY, BYBIT_API_SECRET } from './const.js';
 
 
-
 const bybitService = new BybitService(BYBIT_API_KEY, BYBIT_API_SECRET);
 
 const getUrls = (symbol,interval='1day') => {
